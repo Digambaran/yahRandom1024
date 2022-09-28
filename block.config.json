@@ -1,0 +1,1 @@
+{"type":3,"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","name":"yahRandom1024","source":{"https":"https://github.com/Digambaran/yahRandom1024.git","ssh":"git@github.com:Digambaran/yahRandom1024.git"}}
