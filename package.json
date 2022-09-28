@@ -1,0 +1,19 @@
+{
+  "name": "yahrandom1024",
+  "version": "1.0.0",
+  "description": "# this is just for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digambaran/yahRandom1024.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digambaran/yahRandom1024/issues"
+  },
+  "homepage": "https://github.com/Digambaran/yahRandom1024#readme"
+}
